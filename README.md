@@ -11,7 +11,7 @@ YS-GPT 是一个基于 SpringBoot3 开发的 AI 多功能项目，通过调用�
 
 **演示地址：[ys.vite66.fun](https://ys.vite66.fun)**
 
-**开源地址：[Gitee](), [GitHub]()**
+**开源地址：[Gitee](https://gitee.com/vite-zhizunweishao/YS-GPT-dec), [GitHub](https://github.com/vite666/YS-GPT-dec)**
 
 ### 技术框架
 前端：Vue3, Element-plus
