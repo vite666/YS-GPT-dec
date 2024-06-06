@@ -59,14 +59,17 @@ YS-GPT 是一个基于 SpringBoot3 开发的 AI 多功能项目，通过调用�
 - 深色模式 UI
 
 
-#### 相关
+### 相关
 
 个人博客：[vite66.cn](https://vite66.cn)
 
+微信：vite-66
+
 邮箱：vite66@163.com
 
+<img src="./static/赞赏.jpg" style="width: 500px" alt="">
 
-#### 项目部分图片演示
+### 项目部分图片演示
 <img src="./static/首页.png" style="width: 500px"  alt=""/>
 <img src="./static/设置.png" style="width: 500px"  alt=""/>
 <img src="./static/聊天.png" style="width: 500px"  alt=""/>
