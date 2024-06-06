@@ -15,6 +15,7 @@ YS-GPT 是一个基于 SpringBoot3 开发的 AI 多功能项目，通过调用�
 
 ### 技术框架
 前端：Vue3, Element-plus
+
 后端：SpringBoot, MyBatis-Plus, [Sa-Token](https://sa-token.cc/index.html), Redis, Mysql
 
 ### 部署环境
